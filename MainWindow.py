@@ -42,7 +42,7 @@ from BarGauge import BarGauge
 # =============================================================================
 
 # Mettre à True pour tourner sans bus CAN ni port série (dev / WSL)
-SIMULATION_MODE = True
+# SIMULATION_MODE = True
 
 # Délai entre chaque trame CAN rejouée en simulation (≈ cadence bus réel)
 SIM_FRAME_DELAY = 0.02  # secondes
